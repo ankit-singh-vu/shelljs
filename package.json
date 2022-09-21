@@ -1,0 +1,17 @@
+{
+  "name": "asyncshelljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-shelljs": "^0.1.4",
+    "nodemon": "^2.0.20",
+    "shelljs": "^0.8.5"
+  }
+}
